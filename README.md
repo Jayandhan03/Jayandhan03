@@ -45,15 +45,16 @@ I am committed to mastering **GenAI, LangChain, LangGraph, RAG pipelines, and ag
 
 ## 📂 Featured Projects
 
+### 🧠 Data Analyst agent
+- Upload the business data as csv or xls file and get complete business case study report  
+- Messy data to clear bussiness report with visual plots
+- Access the app here:https://data-analyst-agent-c7nztqyn5cwcqtp4wetrms.streamlit.app
+
 ### 🤖 HR Assistant Bot
 - AI-powered **RAG-based HR Q&A assistant**  
 - Multi-index Qdrant vector store + BM25 reranking  
 - LangChain + HuggingFace embeddings + LLM for contextual HR answers
 - Access the app here : https://huggingface.co/spaces/Jayandhan/HR-Assistant
-
-### 🧠 AI Resume Modifier
-- Reads job description + resume  
-- Generates optimized resumes automatically using AI pipelines  
 
 ### 🌍 ztrip planner
 - Autonomous multi-agent **travel planning system**  
