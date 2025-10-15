@@ -48,7 +48,8 @@ I am committed to mastering **GenAI, LangChain, LangGraph, RAG pipelines, and ag
 ### 🤖 HR Assistant Bot
 - AI-powered **RAG-based HR Q&A assistant**  
 - Multi-index Qdrant vector store + BM25 reranking  
-- LangChain + HuggingFace embeddings + LLM for contextual HR answers  
+- LangChain + HuggingFace embeddings + LLM for contextual HR answers
+- Access the app here : https://huggingface.co/spaces/Jayandhan/HR-Assistant
 
 ### 🧠 AI Resume Modifier
 - Reads job description + resume  
