@@ -48,7 +48,6 @@ I am committed to mastering **GenAI, LangChain, LangGraph, RAG pipelines, and ag
 ### 🧠 Data Analyst agent
 - Upload the business data as csv or xls file and get complete business case study report  
 - Messy data to clear bussiness report with visual plots
-- Working demo here:https://www.linkedin.com/posts/jayandhanai_ai-langgraph-langchain-activity-7384557987526475776-i8fi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD_LIKQBWa4s-4TpMZcXIEkSkKnUr-Fv_uo
 - Access the app here:https://data-analyst-agent-c7nztqyn5cwcqtp4wetrms.streamlit.app
 
 ### 🤖 HR Assistant Bot
