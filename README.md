@@ -58,7 +58,8 @@ I am committed to mastering **GenAI, LangChain, LangGraph, RAG pipelines, and ag
 
 ### 🌍 ztrip planner
 - Autonomous multi-agent **travel planning system**  
-- Built with **Agentic AI + LangGraph workflows**  
+- Built with **Agentic AI + LangGraph workflows**
+- Acess the app here : https://travel-agentgit-aejpqw3mnfzgqpcwfj6aex.streamlit.app/
 
 ---
 
