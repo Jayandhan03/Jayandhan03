@@ -45,6 +45,10 @@ I am committed to mastering **GenAI, LangChain, LangGraph, RAG pipelines, and ag
 
 ## 📂 Featured Projects
 
+### Job Tracking AI
+- Track all your job applications with our automated AI system
+- Acess the app here :https://jobtrack-ai.com/
+
 ### 🧠 Data Analyst agent
 - Upload the business data as csv or xls file and get complete business case study report  
 - Messy data to clear bussiness report with visual plots
